@@ -47,7 +47,15 @@
 
 在文章内添加属性
 ``` md
+---
+title: '标题'
+published: 发布时间
+draft: false
+image: "封面图"
+category: ["分类"]
+tags: ["Tag"]
 pinned: true
+---
 ```
 置顶图标和颜色可自行修改：
 
